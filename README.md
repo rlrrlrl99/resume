@@ -15,5 +15,6 @@ RESUME
 2.세계일주  
 3.전국일주    
 -------------------------------
-###내가 자주 가는 사이트
-1.https://www.naver.com/
+###내가 자주 가는 사이
+1.https://www.naver.com/    
+2.[한림대학교] https://www.hallym.ac.kr/hallym_univ  
