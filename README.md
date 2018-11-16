@@ -24,4 +24,9 @@ RESUME
 
 ![돼지 사진](images.jpg)
 
+1 | 2
+--|--
+3 | 4
+
+
 [1]:http://www.naver.com
