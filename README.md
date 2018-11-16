@@ -22,7 +22,6 @@ RESUME
 
 
 
-###### 활동사진
-![강아지](/images/dog)
+![돼지 사진](images.jpg)
 
 [1]:http://www.naver.com
